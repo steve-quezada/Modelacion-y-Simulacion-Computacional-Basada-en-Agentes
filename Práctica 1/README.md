@@ -139,8 +139,9 @@ El modelo incluye una gráfica que muestra:
 ```
 Quezada_Ordoñez/
 └── Practica1/
-    │   readme.txt         # Este archivo
-    │   solucion.pdf       # Documentación de la práctica
+    │   README.md              # Este archivo
+    │   solucion.pdf           # Documentación de la práctica
+    |   MBA2026I_Practica1.pdf
     │
     └── Fuentes/
             ACE.nlogo      # Autómata Celular Elemental
